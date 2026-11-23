@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul 12 14:34:22 2026
+
+@author: nk336
+"""
+
+streamlit
+pandas
+numpy
+plotly
+lightgbm
+joblib
+pyarrow
+scikit-learn
